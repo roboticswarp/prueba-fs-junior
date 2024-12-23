@@ -10,6 +10,8 @@ Requisitos
 - Hacer un fork del repositorio.
 - En un directorio `api` desarrolla un backend con Node.js que permita administrar un recurso de películas.
 - Integra el frontend suministrado en el directorio `ui` con el backend que construyas.
+- Sube tus cambios al fork creado en tu GutHub en una rama nombrada con tu nombre.
+- Haz un Pull Request de tu rama este repositorio.
 
 ## Requerimientos Específicos
 
