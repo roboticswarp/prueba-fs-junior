@@ -7,9 +7,9 @@ El objetivo de esta prueba es evaluar tus habilidades en el desarrollo de aplica
 ## Instrucciones Generales
 
 Requisitos
-Clona el repositorio base que contiene un proyecto inicial de frontend con React.
-Desarrolla un backend con Node.js que permita administrar un recurso de películas.
-Integra el frontend suministrado con el backend que construyas.
+Hacer un fork del repositorio.
+En un directorio `api` desarrolla un backend con Node.js que permita administrar un recurso de películas.
+Integra el frontend suministrado en el directorio `ui` con el backend que construyas.
 
 ## Requerimientos Específicos
 
